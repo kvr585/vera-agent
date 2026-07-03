@@ -1,0 +1,4 @@
+scan:
+  timeout: 30
+  threads: 10
+  ports: [80, 443, 22, 8080]
